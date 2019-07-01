@@ -23,6 +23,7 @@
   <a href="https://circleci.com/gh/gatsbyjs/gatsby">
     <img src="https://circleci.com/gh/gatsbyjs/gatsby.svg?style=shield" alt="Current CircleCI build status." />
   </a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fm-bandi%2Fgatsby?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fm-bandi%2Fgatsby.svg?type=shield"/></a>
   <a href="https://www.npmjs.org/package/gatsby">
     <img src="https://img.shields.io/npm/v/gatsby.svg" alt="Current npm package version." />
   </a>
@@ -81,6 +82,9 @@ Gatsby is a modern web framework for blazing fast websites.
   hosted entirely free on services like GitHub Pages and Netlify.
 
 [**Learn how to use Gatsby for your next project.**](https://gatsbyjs.org/docs/)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fm-bandi%2Fgatsby.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fm-bandi%2Fgatsby?ref=badge_large)
 
 ## What’s In This Document
 
